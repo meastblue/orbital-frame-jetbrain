@@ -1,0 +1,26 @@
+{
+  "name": "Jehuty Light",
+  "dark": false,
+  "author": "Massinissa Amalou",
+  "editorScheme": "Jehuty",
+  "ui": {
+    "*": {
+      "background": "#ffffff",
+      "foreground": "#212529"
+    },
+    "Panel": {
+      "background": "#f8f9fa",
+      "foreground": "#212529"
+    },
+    "Button": {
+      "background": "#0d6efd",
+      "foreground": "#ffffff",
+      "borderColor": "#0b5ed7"
+    },
+    "Tree": {
+      "background": "#f8f9fa",
+      "foreground": "#212529",
+      "selectionBackground": "#cce5ff"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "name": "Nephtis Dark",
   "dark": true,
   "author": "Massinissa Amalou",
-  "editorScheme": "/colors/nephtis-dark.icls",
+  "editorScheme": "Nephtis",
   "ui": {
     "*": {
       "background": "#1a1611",

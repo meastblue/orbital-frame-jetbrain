@@ -1,0 +1,26 @@
+{
+  "name": "Nephtis Light",
+  "dark": false,
+  "author": "Massinissa Amalou",
+  "editorScheme": "Nephtis",
+  "ui": {
+    "*": {
+      "background": "#ffffff",
+      "foreground": "#44403c"
+    },
+    "Panel": {
+      "background": "#faf9f2",
+      "foreground": "#44403c"
+    },
+    "Button": {
+      "background": "#a16207",
+      "foreground": "#ffffff",
+      "borderColor": "#92400e"
+    },
+    "Tree": {
+      "background": "#faf9f2",
+      "foreground": "#44403c",
+      "selectionBackground": "#fef3c7"
+    }
+  }
+}

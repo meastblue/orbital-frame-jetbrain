@@ -2,7 +2,7 @@
   "name": "Jehuty Dark",
   "dark": true,
   "author": "Massinissa Amalou",
-  "editorScheme": "/colors/jehuty-dark.icls",
+  "editorScheme": "Jehuty",
   "ui": {
     "*": {
       "background": "#0d1117",

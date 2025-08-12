@@ -1,0 +1,26 @@
+{
+  "name": "Anubis Light",
+  "dark": false,
+  "author": "Massinissa Amalou",
+  "editorScheme": "Anubis",
+  "ui": {
+    "*": {
+      "background": "#ffffff",
+      "foreground": "#1a1a1a"
+    },
+    "Panel": {
+      "background": "#f5f5f5",
+      "foreground": "#1a1a1a"
+    },
+    "Button": {
+      "background": "#ea580c",
+      "foreground": "#ffffff",
+      "borderColor": "#dc2626"
+    },
+    "Tree": {
+      "background": "#f5f5f5",
+      "foreground": "#1a1a1a",
+      "selectionBackground": "#fed7aa"
+    }
+  }
+}

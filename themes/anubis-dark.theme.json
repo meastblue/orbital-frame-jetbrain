@@ -2,7 +2,7 @@
   "name": "Anubis Dark",
   "dark": true,
   "author": "Massinissa Amalou",
-  "editorScheme": "/colors/anubis-dark.icls",
+  "editorScheme": "Anubis",
   "ui": {
     "*": {
       "background": "#0d0d0d",
