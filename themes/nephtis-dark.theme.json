@@ -1,0 +1,26 @@
+{
+  "name": "Nephtis Dark",
+  "dark": true,
+  "author": "Massinissa Amalou",
+  "editorScheme": "/colors/nephtis-dark.icls",
+  "ui": {
+    "*": {
+      "background": "#1a1611",
+      "foreground": "#f4f0e6"
+    },
+    "Panel": {
+      "background": "#2d251a",
+      "foreground": "#d9d5cd"
+    },
+    "Button": {
+      "background": "#2d251a",
+      "foreground": "#f4f0e6",
+      "borderColor": "#3d3327"
+    },
+    "Tree": {
+      "background": "#2d251a",
+      "foreground": "#d9d5cd",
+      "selectionBackground": "#9370db"
+    }
+  }
+}

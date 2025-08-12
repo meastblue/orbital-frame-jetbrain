@@ -1,0 +1,34 @@
+# JetBrains IDE files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Build output
+build/
+out/
+target/
+
+# Gradle
+.gradle/
+gradle-wrapper.jar
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Node modules (if any)
+node_modules/
+
+# Compiled JAR (keep the final plugin JAR)
+# orbital-frames-plugin.jar

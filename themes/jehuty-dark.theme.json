@@ -1,0 +1,26 @@
+{
+  "name": "Jehuty Dark",
+  "dark": true,
+  "author": "Massinissa Amalou",
+  "editorScheme": "/colors/jehuty-dark.icls",
+  "ui": {
+    "*": {
+      "background": "#0d1117",
+      "foreground": "#eef0f9"
+    },
+    "Panel": {
+      "background": "#161b22",
+      "foreground": "#bfc1c9"
+    },
+    "Button": {
+      "background": "#161b22",
+      "foreground": "#eef0f9",
+      "borderColor": "#21262d"
+    },
+    "Tree": {
+      "background": "#161b22",
+      "foreground": "#bfc1c9",
+      "selectionBackground": "#54b9ff"
+    }
+  }
+}

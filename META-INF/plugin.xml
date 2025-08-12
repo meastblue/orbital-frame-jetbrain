@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idea-plugin>
+    <id>com.mamalou.orbital-frames</id>
+    <name>Orbital Frames</name>
+    <version>1.0.0</version>
+    <vendor email="amalou.massinissa@gmail.com" url="https://github.com/meastblue">Massinissa Amalou</vendor>
+
+    <description><![CDATA[
+    A collection of themes inspired by Orbital Frames - Featuring Jehuty, Anubis, and Nephtis in dark variants.
+    
+    These themes bring the aesthetic of mecha and space exploration to your IDE with carefully crafted color schemes.
+    
+    Themes included:
+    • Anubis Dark - Warm orange and red tones
+    • Jehuty Dark - Cool cyan and blue tones  
+    • Nephtis Dark - Golden and purple tones
+    ]]></description>
+
+    <idea-version since-build="203"/>
+    <depends>com.intellij.modules.platform</depends>
+    
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="AnubisDark" path="/themes/anubis-dark.theme.json"/>
+        <themeProvider id="JehutyDark" path="/themes/jehuty-dark.theme.json"/>
+        <themeProvider id="NephtisDark" path="/themes/nephtis-dark.theme.json"/>
+    </extensions>
+</idea-plugin>
